@@ -39,7 +39,7 @@ body {
   }
 }
 
-@media only screen and (min-width: 750px) {
+@media only screen and (min-width: 800px) {
   .leftAlign0 {
     margin-left: 100px;
   }
@@ -48,7 +48,7 @@ body {
   }
 }
 
-@media only screen and (min-width: 970px) {
+@media only screen and (min-width: 1190px) {
   .leftAlign0 {
     margin-left: 70px;
   }
