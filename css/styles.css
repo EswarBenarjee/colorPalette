@@ -28,31 +28,31 @@ body {
 }
 
 @media only screen and (max-width: 750px) {
-  .leftAlign0 {
+  #leftAlign0 {
     margin-left: 60px;
   }
-  .leftAlign2 {
+  #leftAlign2 {
     margin-left: 60px;
   }
-  .leftAlign4 {
+  #leftAlign4 {
     margin-left: 200px;
   }
 }
 
 @media only screen and (min-width: 800px) {
-  .leftAlign0 {
+  #leftAlign0 {
     margin-left: 100px;
   }
-  .leftAlign3 {
+  #leftAlign3 {
     margin-left: 200px;
   }
 }
 
 @media only screen and (min-width: 1190px) {
-  .leftAlign0 {
+  #leftAlign0 {
     margin-left: 70px;
   }
-  .leftAlign3 {
+  #leftAlign3 {
     margin-left: 10px;
   }
 }
